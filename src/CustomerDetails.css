@@ -1,0 +1,25 @@
+/* CustomerDetails.css */
+
+.customer-details {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .customer-details h2 {
+    margin-bottom: 10px;
+  }
+  
+  .customer-info {
+    margin-top: 10px;
+  }
+  
+  .customer-info p {
+    margin-bottom: 5px;
+  }
+  
+  .customer-info p strong {
+    margin-right: 5px;
+    font-weight: bold;
+  }
+  
